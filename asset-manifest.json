@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6441a4dd.css",
-    "main.js": "/static/js/main.1d11902a.js",
-    "static/js/787.0f15b36d.chunk.js": "/static/js/787.0f15b36d.chunk.js",
-    "static/media/Compact-Regular.ttf": "/static/media/Compact-Regular.cf577abc191dd67dd8a6.ttf",
-    "index.html": "/index.html",
-    "main.6441a4dd.css.map": "/static/css/main.6441a4dd.css.map",
-    "main.1d11902a.js.map": "/static/js/main.1d11902a.js.map",
-    "787.0f15b36d.chunk.js.map": "/static/js/787.0f15b36d.chunk.js.map"
+    "main.css": "/m-el-code.github.io/static/css/main.b788db6f.css",
+    "main.js": "/m-el-code.github.io/static/js/main.2e47eea8.js",
+    "static/js/787.0f15b36d.chunk.js": "/m-el-code.github.io/static/js/787.0f15b36d.chunk.js",
+    "static/media/Compact-Regular.ttf": "/m-el-code.github.io/static/media/Compact-Regular.cf577abc191dd67dd8a6.ttf",
+    "index.html": "/m-el-code.github.io/index.html",
+    "main.b788db6f.css.map": "/m-el-code.github.io/static/css/main.b788db6f.css.map",
+    "main.2e47eea8.js.map": "/m-el-code.github.io/static/js/main.2e47eea8.js.map",
+    "787.0f15b36d.chunk.js.map": "/m-el-code.github.io/static/js/787.0f15b36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6441a4dd.css",
-    "static/js/main.1d11902a.js"
+    "static/css/main.b788db6f.css",
+    "static/js/main.2e47eea8.js"
   ]
 }
