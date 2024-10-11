@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/m-el-code.github.io/static/css/main.593463da.css",
+    "main.css": "/m-el-code.github.io/static/css/main.d9d40336.css",
     "main.js": "/m-el-code.github.io/static/js/main.007cc335.js",
+    "static/media/Kanit-Light.ttf": "/m-el-code.github.io/static/media/Kanit-Light.7b6b95563f4c5697d973.ttf",
     "index.html": "/m-el-code.github.io/index.html",
-    "main.593463da.css.map": "/m-el-code.github.io/static/css/main.593463da.css.map",
+    "main.d9d40336.css.map": "/m-el-code.github.io/static/css/main.d9d40336.css.map",
     "main.007cc335.js.map": "/m-el-code.github.io/static/js/main.007cc335.js.map"
   },
   "entrypoints": [
-    "static/css/main.593463da.css",
+    "static/css/main.d9d40336.css",
     "static/js/main.007cc335.js"
   ]
 }
