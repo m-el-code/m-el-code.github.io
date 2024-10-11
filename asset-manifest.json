@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m-el-code.github.io/static/css/main.593463da.css",
+    "main.js": "/m-el-code.github.io/static/js/main.007cc335.js",
+    "index.html": "/m-el-code.github.io/index.html",
+    "main.593463da.css.map": "/m-el-code.github.io/static/css/main.593463da.css.map",
+    "main.007cc335.js.map": "/m-el-code.github.io/static/js/main.007cc335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.593463da.css",
+    "static/js/main.007cc335.js"
+  ]
+}
