@@ -29,14 +29,13 @@ function Projects () {
                         />
                     </div>
 
-                    <div class="card">
+                    {/*<div class="card">
                         <ProjectCard 
                             name="Cryptogram Game"
                             desc="Terminal based game to decode a message (in progress)"
-                            link="https://github.com/m-el-code/Web-Dev-Systems-Projects"
+                            link=""
                         />
-                    </div>
-                    
+                    </div>*/}                    
                 </div>
                 
 
