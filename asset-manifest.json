@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.6ecd13de.css",
-    "main.js": "/static/js/main.b9e6617f.js",
+    "main.js": "/static/js/main.38348db7.js",
     "static/media/Kanit-Light.ttf": "/static/media/Kanit-Light.7b6b95563f4c5697d973.ttf",
     "index.html": "/index.html",
     "main.6ecd13de.css.map": "/static/css/main.6ecd13de.css.map",
-    "main.b9e6617f.js.map": "/static/js/main.b9e6617f.js.map"
+    "main.38348db7.js.map": "/static/js/main.38348db7.js.map"
   },
   "entrypoints": [
     "static/css/main.6ecd13de.css",
-    "static/js/main.b9e6617f.js"
+    "static/js/main.38348db7.js"
   ]
 }
